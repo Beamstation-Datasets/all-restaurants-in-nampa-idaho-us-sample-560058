@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Nampa, Idaho with a population of over 100k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Nampa, Idaho, US",
+  "export_job_id": "4d79d3bc-eda3-481d-ab26-44920a8cedfe",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 560058,
+  "location_name": "Nampa",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-nampa-idaho-us-sample-560058",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/560058/beamstation_560058_restaurants-us-id_SAMPLE_DIST.csv",
+  "sample_pct": 19.29,
+  "sample_records": 27,
+  "sample_sha256": "17f694552e6e0b89e73aa77595d7dd0fe87cb71e32c74d98d80855c93d8f7513",
+  "sample_size_bytes": 109965,
+  "total_records": 140,
+  "updated_at": "2026-03-31T14:36:55.056566+00:00"
+}

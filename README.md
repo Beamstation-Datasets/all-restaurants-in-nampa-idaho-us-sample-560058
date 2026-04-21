@@ -1,6 +1,6 @@
 # All Restaurants in Nampa, Idaho, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `560058` |
 | Location | Nampa |
 | Category | Restaurants |
-| Full dataset size | 276 records |
-| Free sample size | 27 records (9.78%) |
-| Last export | 2026-04-14T15:04:56.278812+00:00 |
+| Full dataset size | 241 records |
+| Free sample size | 24 records (9.96%) |
+| Last export | 2026-04-21T16:21:50.384522+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-nampa-idaho-us-sample-560058/releases/download/sample-latest/beamstation_560058_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample

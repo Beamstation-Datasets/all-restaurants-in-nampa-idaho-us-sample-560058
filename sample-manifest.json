@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7b45cabb-4cb3-4a9a-a878-def1944d1aaf",
+  "export_job_id": "e9c269ce-a54c-4be8-9c94-ebbb6ed56b62",
   "id_short": 560058,
-  "published_at": "2026-04-21T19:33:22Z",
+  "published_at": "2026-04-28T19:44:24Z",
   "repo_name": "all-restaurants-in-nampa-idaho-us-sample-560058",
   "sample_asset_name": "beamstation_560058_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/560058/beamstation_560058_restaurants-us-id_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "7ea9cc11adcccf427b4fc6de0246c47f70901b717911c7514c0bb3f06cc19072",
-  "sample_size_bytes": 99106,
-  "total_records": 241
+  "sample_records": 27,
+  "sample_sha256": "23a053e02427e4c40991855838936e35ac53c2f5432aab192c1579ad21452153",
+  "sample_size_bytes": 93538,
+  "total_records": 274
 }
